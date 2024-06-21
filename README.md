@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Caza</h1>
 <h3 align="center">Software Development Student</h3>
 
-<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2"></a></p>
+<img align="center" alt="coding gif" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk0MHJoYTVma3dscDFoejIyM3U5ZG5vdW1wYW8yNDBsY3YweWd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.gif" />
 
 - 🔭 I’m currently working on **Python, Reactjs, Javascript, SQL**.
 
