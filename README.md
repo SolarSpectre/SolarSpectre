@@ -5,7 +5,7 @@
 
 
 - 🔭 I'm passionate about Software Development and Ethical Hacking
-- 🌱 Currently exploring Penetration Testing and Security Research
+- 🌱 Currently exploring Penetration Testing and Red Team
 - ✍️ I write HTB & THM writeups on my [blog](https://solarspectre.github.io/)
 
 <h3 align="left">Languages and Tools:</h3>
