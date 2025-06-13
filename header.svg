@@ -8,31 +8,31 @@
         }
         @keyframes type-text {
           0% {
-            content: "d_";
+            content: "w_";
           }
           12.5% {
-            content: "de_";
+            content: "we_";
           }
           25% {
-            content: "dev_";
+            content: "web_";
           }
           37.5% {
-            content: "h_";
+            content: "web _";
           }
           50% {
-            content: "ha_";
+            content: "web d_";
           }
           62.5% {
-            content: "hac_";
+            content: "web de_";
           }
           75% {
-            content: "hack_";
+            content: "web dev_";
           }
           87.5% {
-            content: "hacke_";
+            content: "web dev";
           }
           100% {
-            content: "hacker";
+            content: "web dev";
           }
         }
 
